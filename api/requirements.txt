@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+keras==2.4.3
+keras-models
+Keras-Preprocessing
+numpy==1.18.5
+pybase64
+Pillow
+tensorflow
+opencv-python==4.1.2.30
